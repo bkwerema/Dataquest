@@ -1,6 +1,7 @@
 # Dataquest Data Analyst Projects
 
 This repository showcases some of the Data Analyst Guided Projects:
+
 Part 1: Introduction To Python
 - For Loops and Conditional Statements in Python - Prison Break
 - Python Functions and Jupyter Notebook - Profitable App Profiles for the App Store and Google Play Markets
