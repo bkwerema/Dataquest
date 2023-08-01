@@ -7,8 +7,8 @@ Part 1: Introduction To Python
 - Intermediate Python For Data Science - Exploring Hacker News Posts
   
 Part 2: Intermediate Python and Pandas
-- Introduction to Pandas and numPy For Data Analysis - Exploring Ebay Car Sales Data 
-- Introduction to Data Visualization In Python - Finding Heavy Traffic Indicators on the I-94
+- Introduction to Pandas and numPy For Data Analysis - [Exploring Ebay Car Sales Data](https://github.com/bkwerema/Dataquest/blob/main/Exploring%20eBay%20Car%20Sales%20Data.ipynb) 
+- Introduction to Data Visualization In Python - [Finding Heavy Traffic Indicators on the I-94](https://github.com/bkwerema/Dataquest/blob/main/Finding%20Heavy%20Traffic%20Indicators%20on%20I-94.ipynb)
 - Telling Stories Using Data Visualization and Infomation Design - StoryTelling Data Visualization On Exchange Rates
   
 Part 3: Data Cleaning In Python
