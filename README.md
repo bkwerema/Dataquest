@@ -15,4 +15,4 @@ Part 3: Data Cleaning In Python
 - Data Cleaning and Analysis In Python - Clean and Analyze Employee Exit Surveys
 
 Part 5 : Working With Data Sources
-- SQL Fundamentals - [Analyzing CIA Factbook Data Using SQL]([https://github.com/bkwerema/Dataquest/blob/main/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL.ipynb]
+- SQL Fundamentals - [Analyzing CIA Factbook Data Using SQL](https://github.com/bkwerema/Dataquest/blob/main/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL.ipynb)
