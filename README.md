@@ -1,5 +1,4 @@
 # Dataquest Data Analyst Projects
-
 This repository showcases some of the Data Analyst Guided Projects:
 
 Part 1: Introduction To Python
